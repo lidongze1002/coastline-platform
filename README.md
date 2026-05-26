@@ -39,7 +39,7 @@
 - 点击要素查看详情（传感器、区域、方法等）
 - 支持 LineString / MultiLineString 几何类型
 - 多色区分不同数据集
-- ![474067fe115ee9d1c9a6121f56058377](D:\xwechat_files\wxid_fn6q824ogg8b22_8fb2\temp\RWTemp\2026-05\9e20f478899dc29eb19741386f9343c8\474067fe115ee9d1c9a6121f56058377.png)
+- ![474067fe115ee9d1c9a6121f56058377](images/474067fe115ee9d1c9a6121f56058377.png)
 
 ### 📐 空间分析工具
 - 绘制工具：点、线、面、矩形、圆
@@ -56,7 +56,7 @@
 - 播放速度调节（0.5秒/帧 ~ 5秒/帧）
 - 年份标签实时显示
 - 循环播放
-- ![93357985596545b43c7c65cc9b60fd8b](D:\xwechat_files\wxid_fn6q824ogg8b22_8fb2\temp\RWTemp\2026-05\9e20f478899dc29eb19741386f9343c8\93357985596545b43c7c65cc9b60fd8b.png)
+- ![93357985596545b43c7c65cc9b60fd8b](images/93357985596545b43c7c65cc9b60fd8b.png)
 
 ### 🖼️ 自定义出图
 - 支持 A4 / A3 纸张
@@ -66,7 +66,7 @@
 - 拖拽调整地图、图例、比例尺位置
 - 全屏预览模式
 - 支持多数据集同时出图
-- ![b68d6d1cd651eb3bd080a8f23b4bb587](D:\xwechat_files\wxid_fn6q824ogg8b22_8fb2\temp\RWTemp\2026-05\9e20f478899dc29eb19741386f9343c8\b68d6d1cd651eb3bd080a8f23b4bb587.png)
+- ![b68d6d1cd651eb3bd080a8f23b4bb587](images/b68d6d1cd651eb3bd080a8f23b4bb587.png)
 
 ### 📂 数据管理
 - 数据集列表展示与筛选
@@ -74,15 +74,15 @@
 - 批量下载
 - 数据上传（GeoJSON / Shapefile 格式）
 - 数据集删除
-- ![9d246b5245048ca94f33c51d311e8a0e](D:\xwechat_files\wxid_fn6q824ogg8b22_8fb2\temp\RWTemp\2026-05\9e20f478899dc29eb19741386f9343c8\9d246b5245048ca94f33c51d311e8a0e.png)
-- ![799ba710824876cf00afdd4aa3373dee](D:\xwechat_files\wxid_fn6q824ogg8b22_8fb2\temp\RWTemp\2026-05\9e20f478899dc29eb19741386f9343c8\799ba710824876cf00afdd4aa3373dee.png)
+- ![9d246b5245048ca94f33c51d311e8a0e](images/9d246b5245048ca94f33c51d311e8a0e.png)
+- ![799ba710824876cf00afdd4aa3373dee](images/799ba710824876cf00afdd4aa3373dee.png)
 
 ### 💬 评论互动
 - 嵌入式评论系统
 - 评论与回复功能
 - 自定义头像颜色
 - 管理员评论管理
-- ![cd5f68e4af0ca49a60c42edaec67dea4](D:\xwechat_files\wxid_fn6q824ogg8b22_8fb2\temp\RWTemp\2026-05\9e20f478899dc29eb19741386f9343c8\cd5f68e4af0ca49a60c42edaec67dea4.png)
+- ![cd5f68e4af0ca49a60c42edaec67dea4](images/cd5f68e4af0ca49a60c42edaec67dea4.png)
 
 ### 👤 用户系统
 - 注册 / 登录（JWT 认证）

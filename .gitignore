@@ -1,0 +1,33 @@
+**/node_modules
+**/.env
+**/.env.local
+**/dist
+**/.DS_Store
+**/*.log
+
+# 后端上传的文件
+backend/public/
+
+# 调试脚本
+backend/*.js
+backend/*.cjs
+!backend/src/**/*.js
+!backend/scripts/seed.js
+
+# 临时数据文件
+data/
+
+# 本地脚本
+scripts/
+ftp_*.py
+ftp_*.ps1
+list_folders.bat
+run_seed.bat
+
+# 系统文件
+.cache/
+
+# 文档/报告
+*.docx
+docs/
+课程报告提示文档.docx
